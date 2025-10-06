@@ -52,15 +52,7 @@ Graphique interactif Plotly montrant :
 | Calculs statistiques | ✅ | Rendements, volatilité, Sharpe |
 | Reproductibilité | ✅ | Seed aléatoire fixe |
 
-```markdown
-## 📁 Structure du Projet
-Portfolio_Optimisation/
-├── Portfolio_Optimisation.ipynb # Notebook principal
-├── requirements.txt # Dépendances Python
-├── README.md # Documentation
-└── images/
-└── efficient_frontier.png # Visualisations
-```
+
 ## 🔧 Installation & Utilisation
 
 ### Prérequis
@@ -74,10 +66,6 @@ git clone https://github.com/votre-username/portfolio-optimization.git
 cd portfolio-optimization
 pip install -r requirements.txt
 ```
-### Exécution
-jupyter notebook Portfolio_Optimisation.ipynb
-
-
 
 ## 🔮 Extensions Futures
 
