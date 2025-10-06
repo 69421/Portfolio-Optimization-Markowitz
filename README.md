@@ -21,8 +21,8 @@ Ce projet implémente une analyse d'optimisation de portefeuille financier en ut
   - `EEM` (iShares MSCI Emerging Markets ETF)
 
 
-**Partie 2/4 :**
-```markdown
+
+
 ### 3. Simulation Monte Carlo
 - **10,000 portefeuilles** aléatoires
 - Pondérations générées avec distribution normale
@@ -52,6 +52,7 @@ Graphique interactif Plotly montrant :
 | Calculs statistiques | ✅ | Rendements, volatilité, Sharpe |
 | Reproductibilité | ✅ | Seed aléatoire fixe |
 
+```markdown
 ## 📁 Structure du Projet
 Portfolio_Optimisation/
 ├── Portfolio_Optimisation.ipynb # Notebook principal
@@ -59,25 +60,25 @@ Portfolio_Optimisation/
 ├── README.md # Documentation
 └── images/
 └── efficient_frontier.png # Visualisations
-
+```
 ## 🔧 Installation & Utilisation
 
 ### Prérequis
 ```bash
 Python 3.12
 Jupyter Notebook
-
+```
 ### Installation
+```bash
 git clone https://github.com/votre-username/portfolio-optimization.git
 cd portfolio-optimization
 pip install -r requirements.txt
-
+```
 ### Exécution
 jupyter notebook Portfolio_Optimisation.ipynb
 
 
-**Partie 4/4 :**
-```markdown
+
 ## 🔮 Extensions Futures
 
 - [ ] Optimisation avec contraintes (sans vente à découvert)
@@ -104,8 +105,6 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 ## 👨‍💻 Auteur
 
 **Cheikh Abdou Mbacke**
-- GitHub: [@votre-username](https://github.com/69421)
-- LinkedIn: [Votre Profil](https://www.linkedin.com/in/cheikh-abdou-mbacke-24362218b/)
 
 ## 🙏 Remerciements
 
@@ -116,3 +115,4 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 ---
 
 *Développé avec ❤️ pour la communauté finance quantitative*
+```
