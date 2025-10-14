@@ -48,8 +48,8 @@ Il utilise des données de marché réelles (ETFs) et la bibliothèque de modél
 
 #### 1️⃣ Cloner le Dépôt
 ```bash
-git clone https://github.com/votre_nom_utilisateur/nom_du_repo.git
-cd nom_du_repo
+git clone https://github.com/69421/Portfolio-Optimization-Markowitz.git
+cd Portfolio-Optimization-Markowitz
 ```
 
 #### 2️⃣ Installer les Dépendances
