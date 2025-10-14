@@ -81,7 +81,18 @@ Le carnet se termine par un tableau comparatif des performances des portefeuille
 | **Sharpe Maximal (Long-only)**                         | **0.0970**      | **0.1095**       | **0.8862**       | 0.0000  | 0.4271  | 0.0000  | 0.3463  | 0.2266  |
 | **Variance Minimale (Rendement ≥ 0.1%, bornes 5–50%)** | **0.0720**      | **0.1075**       | **0.6695**       | 0.0500  | 0.3246  | 0.0500  | 0.2120  | 0.3634  |
 
----
+
+### 🎯 Perspective
+Ce projet constitue une première étape vers la modélisation avancée du risque et de la performance financière.
+Les prochaines évolutions envisagées incluent :
+- L’intégration de mesures de risque alternatives (Value-at-Risk, CVaR).
+- L’ajout de contraintes dynamiques basées sur la volatilité du marché.
+- L’implémentation de modèles d’optimisation robustes pour données incertaines.
+- La création d’un dashboard interactif pour visualiser la frontière efficiente en temps réel.
+- L’exploration d’approches machine learning (par ex. clustering ou prédiction de rendements attendus).
+
+Ce travail s’inscrit dans une démarche de recherche appliquée en finance quantitative et optimisation convexe.
+
 ### 📝 Licence
 Ce projet est distribué sous la licence MIT.
 
